@@ -42,4 +42,3 @@ src="https://img.shields.io/twitter/follow/niazmorshed_?logo=twitter&style=for-t
 
 <a href="http://www.github.com/NiazMorshed2007"><img src="https://activity-graph.herokuapp.com/graph?username=NiazMorshed2007&bg_color=0f172a&color=ffffff&line=ef4444&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/NiazMorshed2007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiazMorshed2007&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
