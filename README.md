@@ -7,9 +7,6 @@
 src="https://img.shields.io/twitter/follow/niazmorshed_?logo=twitter&style=for-the-badge&color=ef4444&labelColor=0f172a"
 /></a>
 
-### About me -
-
-<p>I enjoy creating things for web. Currently working as a frontend developer with React. Diving to the deep journey 🚀</p>
 
 ### I'm working with-
 <p align="left">
