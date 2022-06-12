@@ -5,7 +5,6 @@
 ### About me -
 I'm a enthusiast learner skilled in React, Redux, Javascript, Typescript, Next, git, Tailwind and others. Currently creating projects in public & learning a bit of Backend to become a MERN stack developer. Deep way to go... 🚀
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NiazMorshed2007&theme=blue-green)
 
 
 ### I'm working with -
