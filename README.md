@@ -3,7 +3,7 @@
 
 
 ### About me -
-I'm a enthusiast learner skilled in React, Redux, Javascript, Typescript, Next, git, Tailwind and others. Currently creating projects in public & learning a bit of Backend to become a MERN stack developer. Deep way to go... 🚀
+I'm a enthusiast learner skilled in React, Redux, Javascript, Typescript, Next, git, Tailwind and others. Currently creating projects in public & learning a bit of Backend to become a MERN stack developer. Deep way to go.... 🚀
 
 
 
